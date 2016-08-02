@@ -1,0 +1,84 @@
+
+.foot_wrap {
+  text-align: center;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-top:40px;
+}
+
+.qrcode {
+  float:left;
+  margin-top:4px;
+}
+
+.qrcode_item1,
+.qrcode_item2 {
+  float: left;
+}
+
+.qrcode_item2 {
+  margin-left: 33px;
+}
+
+.qrcode_img {
+  float: left;
+  width: 60px;
+  height: 60px;
+}
+
+.qrcode_info {
+  float: left;
+  color: #999;
+  line-height: 23px;
+  margin: 8px 0 0 10px;
+  ;
+}
+
+.qrcode_info b {
+  color: #666;
+}
+
+.foot_info {
+  display: inline-block;
+  margin-left: 33px;
+  line-height: 22px;
+  position: relative;
+  top: -2px;
+  margin-left:0px;
+  position:static;
+  color: #999;
+}
+
+.foot_info a {
+  color: #999;
+}
+
+.foot_link a:first-child {
+  margin-left: 0;
+}
+
+.foot_ver {
+  color: #999;
+}
+
+.foot_icrlogo {
+  position: relative;
+  top: 3px;
+  width: 16px;
+  height: 17px;
+  background: url(../images/icons_0e814c16.png) no-repeat;
+  display: inline-block;
+  background-position: -600px -96px;
+}
+
+.foot_web_rec span {
+  display: inline-block;
+  background: url(../images/icons_0e814c16.png) no-repeat;
+  background-position: -623px -96px;
+  position: relative;
+  top: 3px;
+  margin-right: 6px;
+  width: 14px;
+  height: 17px;
+  overflow: hidden;
+}

@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: Arial;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #fff;
+  min-width: 320px;
+  position: relative;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font: 12px arial;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 12px;
+  line-height: normal;
+  font-family: arial;
+}
+
+li {
+  list-style-type: none;
+}
+
+input,
+button,
+select,
+textarea {
+  outline: none
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+textarea {
+  -webkit-appearance: none;
+}
+
+input {
+  border-radius: 0;
+}
